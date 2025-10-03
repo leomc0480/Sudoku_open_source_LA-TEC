@@ -1,0 +1,7 @@
+# Dependencias del Proyecto Sudoku
+
+# PyInstaller para crear ejecutables
+pyinstaller>=5.0
+
+# Tkinter viene incluido con Python, no necesita instalación adicional
+# json, os, datetime, time, random, typing son módulos estándar de Python
