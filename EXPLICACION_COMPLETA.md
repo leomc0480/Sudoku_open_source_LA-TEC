@@ -6,7 +6,7 @@
 
 **Curso:** Pensamiento Computacional para Ingeniería (Grupo 401)
 **Institución:** TEC - 1er Año de Profesional
-**Fecha:** Enero 2025
+**Fecha:** Octubre 2025
 
 ---
 
