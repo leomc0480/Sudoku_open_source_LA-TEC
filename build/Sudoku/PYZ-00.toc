@@ -1,6 +1,6 @@
 ('C:\\Users\\LeoMo\\OneDrive\\DELLCOMPDECK_22\\TEC\\TEC 1ER AÑO DE '
  'PROFE\\Pensamiento computacional para ingeniería (Gpo '
- '401)\\Proyect_Sudoku\\build\\Sudoku\\PYZ-00.pyz',
+ '401)\\Proyect_Sudoku_GitHub\\Sudoku_open_source_LA-TEC\\build\\Sudoku\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\LeoMo\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
    'PYMODULE'),
@@ -52,7 +52,7 @@
   ('config',
    'C:\\Users\\LeoMo\\OneDrive\\DELLCOMPDECK_22\\TEC\\TEC 1ER AÑO DE '
    'PROFE\\Pensamiento computacional para ingeniería (Gpo '
-   '401)\\Proyect_Sudoku\\config.py',
+   '401)\\Proyect_Sudoku_GitHub\\Sudoku_open_source_LA-TEC\\config.py',
    'PYMODULE'),
   ('contextlib',
    'C:\\Users\\LeoMo\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextlib.py',
@@ -297,7 +297,7 @@
   ('stats_manager',
    'C:\\Users\\LeoMo\\OneDrive\\DELLCOMPDECK_22\\TEC\\TEC 1ER AÑO DE '
    'PROFE\\Pensamiento computacional para ingeniería (Gpo '
-   '401)\\Proyect_Sudoku\\stats_manager.py',
+   '401)\\Proyect_Sudoku_GitHub\\Sudoku_open_source_LA-TEC\\stats_manager.py',
    'PYMODULE'),
   ('string',
    'C:\\Users\\LeoMo\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\string.py',
@@ -311,17 +311,17 @@
   ('sudoku_game',
    'C:\\Users\\LeoMo\\OneDrive\\DELLCOMPDECK_22\\TEC\\TEC 1ER AÑO DE '
    'PROFE\\Pensamiento computacional para ingeniería (Gpo '
-   '401)\\Proyect_Sudoku\\sudoku_game.py',
+   '401)\\Proyect_Sudoku_GitHub\\Sudoku_open_source_LA-TEC\\sudoku_game.py',
    'PYMODULE'),
   ('sudoku_generator',
    'C:\\Users\\LeoMo\\OneDrive\\DELLCOMPDECK_22\\TEC\\TEC 1ER AÑO DE '
    'PROFE\\Pensamiento computacional para ingeniería (Gpo '
-   '401)\\Proyect_Sudoku\\sudoku_generator.py',
+   '401)\\Proyect_Sudoku_GitHub\\Sudoku_open_source_LA-TEC\\sudoku_generator.py',
    'PYMODULE'),
   ('sudoku_gui',
    'C:\\Users\\LeoMo\\OneDrive\\DELLCOMPDECK_22\\TEC\\TEC 1ER AÑO DE '
    'PROFE\\Pensamiento computacional para ingeniería (Gpo '
-   '401)\\Proyect_Sudoku\\sudoku_gui.py',
+   '401)\\Proyect_Sudoku_GitHub\\Sudoku_open_source_LA-TEC\\sudoku_gui.py',
    'PYMODULE'),
   ('tarfile',
    'C:\\Users\\LeoMo\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tarfile.py',
